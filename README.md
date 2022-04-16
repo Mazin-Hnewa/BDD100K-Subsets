@@ -7,7 +7,7 @@ Subsets that are used in [Object Detection Under Rainy Conditions for Autonomous
 |train gen-rainy|[download](https://drive.google.com/file/d/1V_5oq41Rk0KVCnPveg5VvudSaZahtDAo/view?usp=sharing)|same as train clear|same as train clear|
 |train rainy (unlabeled)|[download](https://drive.google.com/file/d/1FjBoMY8mzqX-h3sg6pZd8-0uADCQMYqZ/view?usp=sharing)|||
 |test clear|[download]()|[download]()|[download]()|
-|test rainy|[download](https://drive.google.com/file/d/1d0nuOOfy2b45ZjvYFUTfEEszfZaQrVbf/view?usp=sharing)|[download]()|[download]()|
+|test rainy|[download](https://drive.google.com/file/d/1d0nuOOfy2b45ZjvYFUTfEEszfZaQrVbf/view?usp=sharing)|[download](https://drive.google.com/file/d/1xjBBvRvKmI72zOsPkPOvB_w8fBO1HKpB/view?usp=sharing)|[download](https://drive.google.com/file/d/12Mx9JUJxmQPvz8GES5leC7_bTaUtlP_D/view?usp=sharing)|
 
 ## Citation
 ```
