@@ -1,7 +1,7 @@
 # Subsets of BDD100K Dataset
 Subsets of [BDD100K Dataset](https://www.bdd100k.com/) that are used in [Object Detection Under Rainy Conditions for Autonomous Vehicles: A Review of State-of-the-Art and Emerging Techniques](https://ieeexplore.ieee.org/document/9307324) can be downloaded from below:
 
-|Set|Images|Annotation(json BDD100K format)|Annotation(json COCO format)|Annotation (Yolo format)
+|Set|Images|Annotation(json BDD100K format)|Annotation(json COCO format)|Annotation (YOLO format)
 |---|---|---|---|---|
 |train clear|[download](https://drive.google.com/file/d/1crBxPu2tCh8aEhYea4dx6idv-YqPPFDX/view?usp=sharing)|[download](https://drive.google.com/file/d/14WLNyQtGhKe725RKXLzWke-KS9NOakIu/view?usp=sharing)|[download](https://drive.google.com/file/d/1fk5VoVNP0oFUlc4LrMsStzduTHX-oTrj/view?usp=sharing)|[download](https://drive.google.com/file/d/1Pnb3BhIkvweHro21ORdGmcGkJNcyxtLn/view?usp=sharing)|
 |train gen-rainy|[download](https://drive.google.com/file/d/1V_5oq41Rk0KVCnPveg5VvudSaZahtDAo/view?usp=sharing)|same as train clear|same as train clear|
